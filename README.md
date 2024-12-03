@@ -22,6 +22,9 @@ https://colab.research.google.com/drive/1CZyRhTxWD-ngnGNtxPyQ0cuWMj0eIdqq?usp=sh
 - numpy
 - matplotlib
 
+### Download the model
+You can download my model from [Google Drive]((https://drive.google.com/file/d/1UWx3R0KMbNq0B_tsjCzaaROgAOUpmpUq/view?usp=sharing)).
+
 ## Usage
 1. Upload a test image, name it text_image.jpg
 2. Run the depth estimation model.
