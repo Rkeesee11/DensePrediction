@@ -6,7 +6,11 @@
 This project uses a Vision Transformer (ViT) model for monocular depth estimation. The model is trained on a custom dataset and evaluated on test images.
 
 
-Paste this link:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rkeesee11/DensePrediction/drive/simplified_midas_reproduction.ipynb)
+
+
+
+Or paste this link:
 https://colab.research.google.com/drive/1CZyRhTxWD-ngnGNtxPyQ0cuWMj0eIdqq?usp=sharing
 
 
