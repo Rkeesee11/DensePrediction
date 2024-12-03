@@ -11,7 +11,7 @@ This project uses a Vision Transformer (ViT) model for monocular depth estimatio
 
 
 Or paste this link:
-https://colab.research.google.com/drive/1CZyRhTxWD-ngnGNtxPyQ0cuWMj0eIdqq?usp=sharing
+[https://colab.research.google.com/drive/1CZyRhTxWD-ngnGNtxPyQ0cuWMj0eIdqq?usp=sharing](https://colab.research.google.com/drive/1CZyRhTxWD-ngnGNtxPyQ0cuWMj0eIdqq?usp=sharing)
 
 
 ## Requirements
