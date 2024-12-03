@@ -5,7 +5,13 @@
 ## Description
 This project uses a Vision Transformer (ViT) model for monocular depth estimation. The model is trained on a custom dataset and evaluated on test images.
 
+
+Paste this link:
+https://colab.research.google.com/drive/1CZyRhTxWD-ngnGNtxPyQ0cuWMj0eIdqq?usp=sharing
+
+
 ## Requirements
+- Google Colab (recommended) or local environment
 - Python 3.x
 - PyTorch
 - torchvision
@@ -13,9 +19,10 @@ This project uses a Vision Transformer (ViT) model for monocular depth estimatio
 - matplotlib
 
 ## Usage
-1. Upload a test image.
+1. Upload a test image, name it text_image.jpg
 2. Run the depth estimation model.
 3. Visualize the predicted depth map.
 
 ## Results
-The model produces a depth map of any image you upload in the correct format of jpg or png based on training.
+The model produces a depth map of any image you upload in the correct format of jpg or png!
+This is not an improvement from our article, but it does replicate it in a way.
