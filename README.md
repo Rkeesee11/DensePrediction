@@ -23,7 +23,8 @@ https://colab.research.google.com/drive/1CZyRhTxWD-ngnGNtxPyQ0cuWMj0eIdqq?usp=sh
 - matplotlib
 
 ### Download the model
-You can download my model from [Google Drive]((https://drive.google.com/file/d/1UWx3R0KMbNq0B_tsjCzaaROgAOUpmpUq/view?usp=sharing)).
+You can download the model from Google Drive
+https://drive.google.com/file/d/1UWx3R0KMbNq0B_tsjCzaaROgAOUpmpUq/view?usp=sharing
 
 ## Usage
 1. Upload a test image, name it text_image.jpg
