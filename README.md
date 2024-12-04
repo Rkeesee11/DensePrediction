@@ -28,8 +28,9 @@ https://drive.google.com/file/d/1UWx3R0KMbNq0B_tsjCzaaROgAOUpmpUq/view?usp=shari
 
 ## Usage
 1. Upload a test image, name it text_image.jpg (or test mine)
-2. Run the depth estimation model.
-3. Visualize the predicted depth map.
+2. Download and import the model weight above called vit_depth_model.pth
+3. Run the depth estimation model.
+4. Visualize the predicted depth map.
 
 ## Results
 The model produces a depth map of any image you upload in the correct format of jpg or png!
