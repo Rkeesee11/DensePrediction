@@ -27,7 +27,7 @@ You can download the model from Google Drive
 https://drive.google.com/file/d/1UWx3R0KMbNq0B_tsjCzaaROgAOUpmpUq/view?usp=sharing
 
 ## Usage
-1. Upload a test image, name it text_image.jpg
+1. Upload a test image, name it text_image.jpg (or test mine)
 2. Run the depth estimation model.
 3. Visualize the predicted depth map.
 
